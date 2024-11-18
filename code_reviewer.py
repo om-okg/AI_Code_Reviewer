@@ -1,5 +1,6 @@
 """Importing required packages"""
-
+! pip install streamlit
+! pip install google-generativeai
 #Streamlit package
 import streamlit as st
 
